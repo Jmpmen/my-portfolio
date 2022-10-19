@@ -3235,3 +3235,7 @@ input, select, textarea {
 	background: #BDB7B9;
 	color: white !important;
 }
+
+.primary{
+	margin-top: 25px;
+}
