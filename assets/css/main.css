@@ -3220,7 +3220,7 @@ input, select, textarea {
 
 	}
 
-.external {
+.external{
     background-color: #BDB7B9;
     border: none;
     border-radius: 0.35em;
@@ -3229,4 +3229,9 @@ input, select, textarea {
     margin-right: 5px;
     padding: 3px 10px;
     width: 20px;
+}
+
+.button{
+	background: #BDB7B9;
+	color: white !important;
 }
