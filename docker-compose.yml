@@ -3,6 +3,7 @@ version: '3.9'
 services:
   my-portfolio:
     image: my-portfolio
+    container_name: my-portfolio
     build:
       context: .
       dockerfile: Dockerfile
