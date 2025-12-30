@@ -8,6 +8,3 @@ services:
     ports:
       - '3050:80'
     restart: unless-stopped
-networks:
-  dockge_default:
-    external: true
